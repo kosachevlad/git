@@ -12,3 +12,6 @@ function work() {
 function sayBye() {
   alert('Goodbye')
 }
+function testRebase() {
+  alert('test')
+}
