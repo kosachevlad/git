@@ -13,5 +13,6 @@ function sayBye() {
   alert('Goodbye')
 }
 function testRebase() {
-  alert('test')
+  alert('test');
+  alert('new changes');
 }
