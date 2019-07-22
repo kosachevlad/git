@@ -12,6 +12,3 @@ function work() {
 function sayBye() {
   alert('Goodbye')
 }
-function newFunction(){
-  console.log('commit')
-}
